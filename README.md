@@ -8,5 +8,8 @@ Place the photos or videos you want to test in the "test" folder, and change the
 To run the program, you need to install TensorFlow in your environment.
 
 
-![image](https://github.com/dgokduman/TensorFlow---Object-Detection-Project/assets/149258460/c99273dd-b97c-472a-b8bb-3f018411bcf1)
+![image](https://github.com/dgokduman/TensorFlow---Object-Detection-Project/assets/149258460/c99273dd-b97c-472a-b8bb-3f018411bcf1)  
+
+
+  ![image](https://github.com/dgokduman/TensorFlow---Object-Detection-Project/assets/149258460/ca52954e-931f-4a47-b3fa-7abfbeaf7e40)
 
