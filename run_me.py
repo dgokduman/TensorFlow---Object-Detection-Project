@@ -6,7 +6,7 @@ modelURL ="http://download.tensorflow.org/models/object_detection/tf2/20200711/s
 
 classFile = "coco.names"
 imagePath = "test/2.jpg"
-videoPath = "test/01.mp4"
+videoPath = "test/02.mp4"
 threshold = 0.5
 
 detector = Detector()
